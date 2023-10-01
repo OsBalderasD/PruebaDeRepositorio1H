@@ -1,2 +1,1 @@
-# PruebaDeRepositorio1H
-Repositorio de prueba de Henry con las credenciales ya modificadas
+Este es un archivo de texto de prueba para el curso de Henry, ya con las credenciales ya actualizadas
